@@ -1,1 +1,3 @@
-# gladys_box
+# gladys-box
+
+STL files for 3D printing of a Gladys box
